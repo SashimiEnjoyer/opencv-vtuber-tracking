@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: b49767671fcd6e445ad0b3a19bafb777
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: hair_MSH
+    100002: head_01_MSH
+    100004: head_02_MSH
+    100006: head_03_MSH
+    100008: //RootNode
+    100010: outfit_MSH
+    100012: pants_MSH
+    100014: shoes_MSH
+    100016: watch_MSH
+    100018: head_01_MSH.001
+    100020: head_02_MSH.001
+    100022: head_03_MSH.001
+    100024: body
+    100026: Head
+    400000: hair_MSH
+    400002: head_01_MSH
+    400004: head_02_MSH
+    400006: head_03_MSH
+    400008: //RootNode
+    400010: outfit_MSH
+    400012: pants_MSH
+    400014: shoes_MSH
+    400016: watch_MSH
+    400018: head_01_MSH.001
+    400020: head_02_MSH.001
+    400022: head_03_MSH.001
+    400024: body
+    400026: Head
+    2100000: 13 - Default
+    2100002: 19 - Default
+    2100004: 20 - Default
+    2100006: 14 - Default
+    2100008: head
+    2100010: M_Head_1
+    2100012: M_Head_2
+    2100014: M_Head_3
+    2100016: cloth_SHD
+    2100018: hair_SHD
+    2100020: shoes_SHD
+    2100022: head_shd
+    2100024: M_Head
+    2300000: hair_MSH
+    2300002: head_01_MSH
+    2300004: head_02_MSH
+    2300006: head_03_MSH
+    2300008: outfit_MSH
+    2300010: pants_MSH
+    2300012: shoes_MSH
+    2300014: watch_MSH
+    2300016: head_01_MSH.001
+    2300018: head_02_MSH.001
+    2300020: head_03_MSH.001
+    2300022: body
+    2300024: Head
+    3300000: hair_MSH
+    3300002: head_01_MSH
+    3300004: head_02_MSH
+    3300006: head_03_MSH
+    3300008: outfit_MSH
+    3300010: pants_MSH
+    3300012: shoes_MSH
+    3300014: watch_MSH
+    3300016: head_01_MSH.001
+    3300018: head_02_MSH.001
+    3300020: head_03_MSH.001
+    3300022: body
+    3300024: Head
+    4300000: outfit_MSH
+    4300002: hair_MSH
+    4300004: pants_MSH
+    4300006: shoes_MSH
+    4300008: watch_MSH
+    4300010: head_01_MSH
+    4300012: head_02_MSH
+    4300014: head_03_MSH
+    4300016: head_01_MSH.001
+    4300018: head_02_MSH.001
+    4300020: head_03_MSH.001
+    4300022: body
+    4300024: Head
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13 - Default
+    second: {fileID: 2100000, guid: d4de481a3108d9843929caf9d0f6da2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 14 - Default
+    second: {fileID: 2100000, guid: c8e08a1367746a848bb43ee3fa00cd74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 19 - Default
+    second: {fileID: 2100000, guid: 2276b520cf25bae4ab3dfc70e4a168bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20 - Default
+    second: {fileID: 2100000, guid: 4fcbf56733f0c794ea2cda976e9fc1a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Head
+    second: {fileID: 2100000, guid: e2c8d09ba3058d843bcc5a7630e54f18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Head_1
+    second: {fileID: 2100000, guid: 7f2b9c55a231e86428eeac926aee507f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Head_2
+    second: {fileID: 2100000, guid: c92a98c4e046f304589f3502c17997cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Head_3
+    second: {fileID: 2100000, guid: 9646c32f196494642a4e0486a3102e1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cloth_SHD
+    second: {fileID: 2100000, guid: d4de481a3108d9843929caf9d0f6da2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hair_SHD
+    second: {fileID: 2100000, guid: 2276b520cf25bae4ab3dfc70e4a168bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: head
+    second: {fileID: 2100000, guid: 7f2b9c55a231e86428eeac926aee507f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: head_shd
+    second: {fileID: 2100000, guid: c8e08a1367746a848bb43ee3fa00cd74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shoes_SHD
+    second: {fileID: 2100000, guid: 4fcbf56733f0c794ea2cda976e9fc1a8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

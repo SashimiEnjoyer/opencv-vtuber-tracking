@@ -1,0 +1,355 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Alia Body Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Alia_v2_Mesh
+    m_Weight: 1
+  - m_Path: Alia_v2_Mesh/back_hair_MSH
+    m_Weight: 1
+  - m_Path: Alia_v2_Mesh/body_MSH
+    m_Weight: 1
+  - m_Path: Alia_v2_Mesh/front_hair_MSH
+    m_Weight: 1
+  - m_Path: Alia_v2_Mesh/hair_shadow_MSH
+    m_Weight: 1
+  - m_Path: Alia_v2_Mesh/head_MSH
+    m_Weight: 1
+  - m_Path: Alia_v2_Mesh/headphone_MSH
+    m_Weight: 1
+  - m_Path: Alia_v2_Mesh/jacket_MSH
+    m_Weight: 1
+  - m_Path: Alia_v2_Mesh/nekomimi_MSH
+    m_Weight: 1
+  - m_Path: Alia_v2_Mesh/shippo_MSH
+    m_Weight: 1
+  - m_Path: Alia_v2_Mesh/shirt_MSH
+    m_Weight: 1
+  - m_Path: Alia_v2_Mesh/shoes_MSH
+    m_Weight: 1
+  - m_Path: Alia_v2_Mesh/skirt_MSH
+    m_Weight: 1
+  - m_Path: Alia_v2_Mesh/sock_MSH
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/LeftUpLeg
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/LeftUpLeg/LeftLeg
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/LeftUpLeg/LeftLeg/LeftFoot
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/RightUpLeg
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/RightUpLeg/RightLeg
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/RightUpLeg/RightLeg/RightFoot
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Breast_L_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Breast_L_1/Breast_L_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Breast_R_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Breast_R_1/Breast_R_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Jacket_Tail_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Jacket_Tail_1/Jacket_Tail_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Jacket_Tail_1/Jacket_Tail_2/Jacket_Tail_L_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Jacket_Tail_1/Jacket_Tail_2/Jacket_Tail_L_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Jacket_Tail_1/Jacket_Tail_2/Jacket_Tail_R_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Jacket_Tail_1/Jacket_Tail_2/Jacket_Tail_R_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/LeftShoulder
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandPinky1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandPinky1/LeftHandPinky2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandPinky1/LeftHandPinky2/LeftHandPinky3
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1/LeftHandRing2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1/LeftHandRing2/LeftHandRing3
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/Ear_L_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/Ear_L_1/Ear_L_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/Ear_R_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/Ear_R_1/Ear_R_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/Eye_L_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/Eye_L_1/Eye_L_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/Eye_R_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/Eye_R_1/Eye_R_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/glass_MSH
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_1_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_1_1/HairBack_1_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_1_1/HairBack_1_2/HairBack_1_3
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_1_1/HairBack_2_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_1_1/HairBack_2_1/HairBack_2_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_4_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_4_1/HairBack_3_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_4_1/HairBack_3_1/HairBack_3_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_4_1/HairBack_4_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_5_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_5_1/HairBack_5_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_6_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_6_1/HairBack_6_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_7_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_7_1/HairBack_7_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_8_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_8_1/HairBack_8_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_8_1/HairBack_9_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_8_1/HairBack_9_1/HairBack_9_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_11_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_11_1/HairBack_10_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_11_1/HairBack_10_1/HairBack_10_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_11_1/HairBack_11_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_11_1/HairBack_11_2/HairBack_11_3
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Inside_1_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Inside_1_1/HairBack_Inside_1_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Inside_2_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Inside_2_1/HairBack_Inside_2_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Inside_3_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Inside_3_1/HairBack_Inside_3_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Inside_4_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Inside_4_1/HairBack_Inside_4_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Inside_5_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Inside_5_1/HairBack_Inside_5_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Inside_6_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Inside_6_1/HairBack_Inside_6_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Inside_7_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Inside_7_1/HairBack_Inside_7_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Inside_8_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Inside_8_1/HairBack_Inside_8_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Tail_1_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Tail_1_1/HairBack_Tail_1_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Tail_2_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Tail_2_1/HairBack_Tail_2_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Tail_3_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Tail_3_1/HairBack_Tail_3_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Tail_3_1/HairBack_Tail_3_2/HairBack_Tail_3_3
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Tail_4_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Tail_4_1/HairBack_Tail_4_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Tail_5_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairBack_Tail_5_1/HairBack_Tail_5_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_L_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_L_1/HairFront_L_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_L_1/HairFront_L_2/HairFront_L_3
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_L_1/HairFront_L_2/HairFront_L_Sub_2_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_L_1/HairFront_L_2/HairFront_L_Sub_2_1/HairFront_L_Sub_2_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_L_1/HairFront_L_2/HairFront_L_Sub_3_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_L_1/HairFront_L_2/HairFront_L_Sub_3_1/HairFront_L_Sub_3_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_L_1/HairFront_L_Sub_1_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_L_1/HairFront_L_Sub_1_1/HairFront_L_Sub_1_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_M_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_M_1/HairFront_M_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_Pony_L1_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_Pony_L1_1/HairFront_Pony_L1_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_Pony_L2_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_Pony_L2_1/HairFront_Pony_L2_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_Pony_R1_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_Pony_R1_1/HairFront_Pony_R1_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_Pony_R2_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_Pony_R2_1/HairFront_Pony_R2_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_R_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_R_1/HairFront_R_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_R_1/HairFront_R_2/HairFront_R_3
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_R_1/HairFront_R_2/HairFront_R_Sub_2_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_R_1/HairFront_R_2/HairFront_R_Sub_2_1/HairFront_R_Sub_2_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_R_1/HairFront_R_2/HairFront_R_Sub_3_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_R_1/HairFront_R_2/HairFront_R_Sub_3_1/HairFront_R_Sub_3_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_R_1/HairFront_R_Sub_1_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairFront_R_1/HairFront_R_Sub_1_1/HairFront_R_Sub_1_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairTail_Front_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairTail_Front_1/HairTail_Front_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/Neck/Head/HairTail_Front_1/HairTail_Front_2/HairTail_Front_3
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/RightShoulder
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2/RightHandIndex3
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky1/RightHandPinky2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky1/RightHandPinky2/RightHandPinky3
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1/RightHandRing2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1/RightHandRing2/RightHandRing3
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2/RightHandThumb3
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Tail_1
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Tail_1/Tail_2
+    m_Weight: 1
+  - m_Path: Alia_v2_Rig/Hips/Tail_1/Tail_2/Tail_3
+    m_Weight: 1

@@ -1,0 +1,557 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Lumi Hand Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Lumi_mesh
+    m_Weight: 0
+  - m_Path: Lumi_mesh/back_hair_MSH
+    m_Weight: 0
+  - m_Path: Lumi_mesh/body_MSH
+    m_Weight: 0
+  - m_Path: Lumi_mesh/coat_full_MSH
+    m_Weight: 0
+  - m_Path: Lumi_mesh/coat_half_MSH
+    m_Weight: 0
+  - m_Path: Lumi_mesh/dress_MSH
+    m_Weight: 0
+  - m_Path: Lumi_mesh/front_hair_MSH
+    m_Weight: 0
+  - m_Path: Lumi_mesh/hairband_MSH
+    m_Weight: 0
+  - m_Path: Lumi_mesh/head_MSH
+    m_Weight: 0
+  - m_Path: Lumi_mesh/muffer_MSH
+    m_Weight: 0
+  - m_Path: Lumi_mesh/shadow_hair_MSH
+    m_Weight: 0
+  - m_Path: Lumi_mesh/shoes_MSH
+    m_Weight: 0
+  - m_Path: Lumi_mesh/snow_hairclip_MSH
+    m_Weight: 0
+  - m_Path: Lumi_mesh/stocking_MSH
+    m_Weight: 0
+  - m_Path: Lumi_mesh/tie_MSH
+    m_Weight: 0
+  - m_Path: Lumi_rig
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/LeftUpLeg
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/LeftUpLeg/feetRibbon_L_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/LeftUpLeg/feetRibbon_L_1/feetRibbon_L_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/LeftUpLeg/feetRibbon_L_1/feetRibbon_L_2_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/LeftUpLeg/feetRibbon_L_1_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/LeftUpLeg/LeftLeg
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/LeftUpLeg/LeftLeg/LeftFoot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/RightUpLeg
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/RightUpLeg/feetRibbon_R_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/RightUpLeg/feetRibbon_R_1/feetRibbon_R_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/RightUpLeg/feetRibbon_R_1/feetRibbon_R_2_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/RightUpLeg/feetRibbon_R_1_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/RightUpLeg/RightLeg
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/RightUpLeg/RightLeg/RightFoot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/jacketRibbon_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/jacketRibbon_1/jacketRibbon_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/jacketRibbon_1/jacketRibbon_2_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/jacketRibbon_1/jacketRibbon_3
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/jacketRibbon_1/jacketRibbon_3_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/jacketRibbon_1/jacketRibbon_4
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/jacketRibbon_1/jacketRibbon_4_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/jacketRibbon_1/jacketRibbon_5
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/jacketRibbon_1/jacketRibbon_5_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/jacketRibbon_1_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/LeftShoulder
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandIndex1/LeftHandIndex2/LeftHandIndex3
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandMiddle1/LeftHandMiddle2/LeftHandMiddle3
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandPinky1
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandPinky1/LeftHandPinky2
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandPinky1/LeftHandPinky2/LeftHandPinky3
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1/LeftHandRing2
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandRing1/LeftHandRing2/LeftHandRing3
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandThumb1/LeftHandThumb2/LeftHandThumb3
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm_cloth_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm_cloth_1/armTie_L_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm_cloth_1/armTie_L_1/armTie_L_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm/LeftForeArm_cloth_1/LeftForeArm_cloth_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm_cloth_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/LeftShoulder/LeftArm_cloth_1/LeftArm_cloth_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Eye_L_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Eye_L_1/Eye_L_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Eye_R_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Eye_R_1/Eye_R_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_1_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_1_1/Hair_Back_1_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_1_1/Hair_Back_1_2/Hair_Back_1_3
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_1_1/Hair_Back_1_2/Hair_Back_1_3/Hair_Back_1_4
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_1_1/Hair_Back_1_2/Hair_Back_1_3/Hair_Back_1_4/Hair_Back_1_5
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_1_1/Hair_Back_1_2/Hair_Back_1_3/Hair_Back_1_4/Hair_Back_1_5/Hair_Back_1_6
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_1_1/Hair_Back_1_2/Hair_Back_1_3/Hair_Back_1_4/Hair_Back_1_5/Hair_Back_1_6_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_1_1/Hair_Back_1_2/Hair_Back_1_3/Hair_Back_1_4/Hair_Back_1_5_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_1_1/Hair_Back_1_2/Hair_Back_1_3/Hair_Back_1_4_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_1_1/Hair_Back_1_2/Hair_Back_1_3_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_1_1/Hair_Back_1_2_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_1_1_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_2_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_2_1/Hair_Back_2_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_2_1/Hair_Back_2_2/Hair_Back_2_3
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_2_1/Hair_Back_2_2/Hair_Back_2_3/Hair_Back_2_4
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_2_1/Hair_Back_2_2/Hair_Back_2_3/Hair_Back_2_4/Hair_Back_2_5
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_2_1/Hair_Back_2_2/Hair_Back_2_3/Hair_Back_2_4/Hair_Back_2_5/Hair_Back_2_6
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_2_1/Hair_Back_2_2/Hair_Back_2_3/Hair_Back_2_4/Hair_Back_2_5/Hair_Back_2_6_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_2_1/Hair_Back_2_2/Hair_Back_2_3/Hair_Back_2_4/Hair_Back_2_5_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_2_1/Hair_Back_2_2/Hair_Back_2_3/Hair_Back_2_4_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_2_1/Hair_Back_2_2/Hair_Back_2_3_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_2_1/Hair_Back_2_2_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_2_1_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_3_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_3_1/Hair_Back_3_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_3_1/Hair_Back_3_2/Hair_Back_3_3
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_3_1/Hair_Back_3_2/Hair_Back_3_3/Hair_Back_3_4
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_3_1/Hair_Back_3_2/Hair_Back_3_3/Hair_Back_3_4/Hair_Back_3_5
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_3_1/Hair_Back_3_2/Hair_Back_3_3/Hair_Back_3_4/Hair_Back_3_5/Hair_Back_3_6
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_3_1/Hair_Back_3_2/Hair_Back_3_3/Hair_Back_3_4/Hair_Back_3_5/Hair_Back_3_6_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_3_1/Hair_Back_3_2/Hair_Back_3_3/Hair_Back_3_4/Hair_Back_3_5_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_3_1/Hair_Back_3_2/Hair_Back_3_3/Hair_Back_3_4_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_3_1/Hair_Back_3_2/Hair_Back_3_3_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_3_1/Hair_Back_3_2_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_3_1_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_4_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_4_1/Hair_Back_4_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_4_1/Hair_Back_4_2/Hair_Back_4_3
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_4_1/Hair_Back_4_2/Hair_Back_4_3/Hair_Back_4_4
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_4_1/Hair_Back_4_2/Hair_Back_4_3/Hair_Back_4_4/Hair_Back_4_5
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_4_1/Hair_Back_4_2/Hair_Back_4_3/Hair_Back_4_4/Hair_Back_4_5/Hair_Back_4_6
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_4_1/Hair_Back_4_2/Hair_Back_4_3/Hair_Back_4_4/Hair_Back_4_5/Hair_Back_4_6_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_4_1/Hair_Back_4_2/Hair_Back_4_3/Hair_Back_4_4/Hair_Back_4_5_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_4_1/Hair_Back_4_2/Hair_Back_4_3/Hair_Back_4_4_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_4_1/Hair_Back_4_2/Hair_Back_4_3_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_4_1/Hair_Back_4_2_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_4_1_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_5_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_5_1/Hair_Back_5_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_5_1/Hair_Back_5_2/Hair_Back_5_3
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_5_1/Hair_Back_5_2/Hair_Back_5_3/Hair_Back_5_4
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_5_1/Hair_Back_5_2/Hair_Back_5_3/Hair_Back_5_4/Hair_Back_5_5
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_5_1/Hair_Back_5_2/Hair_Back_5_3/Hair_Back_5_4/Hair_Back_5_5/Hair_Back_5_6
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_5_1/Hair_Back_5_2/Hair_Back_5_3/Hair_Back_5_4/Hair_Back_5_5/Hair_Back_5_6_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_5_1/Hair_Back_5_2/Hair_Back_5_3/Hair_Back_5_4/Hair_Back_5_5_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_5_1/Hair_Back_5_2/Hair_Back_5_3/Hair_Back_5_4_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_5_1/Hair_Back_5_2/Hair_Back_5_3_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_5_1/Hair_Back_5_2_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_5_1_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_6_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_6_1/Hair_Back_6_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_6_1/Hair_Back_6_2/Hair_Back_6_3
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_6_1/Hair_Back_6_2/Hair_Back_6_3/Hair_Back_6_4
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_6_1/Hair_Back_6_2/Hair_Back_6_3/Hair_Back_6_4/Hair_Back_6_5
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_6_1/Hair_Back_6_2/Hair_Back_6_3/Hair_Back_6_4/Hair_Back_6_5/Hair_Back_6_6
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_6_1/Hair_Back_6_2/Hair_Back_6_3/Hair_Back_6_4/Hair_Back_6_5/Hair_Back_6_6_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_6_1/Hair_Back_6_2/Hair_Back_6_3/Hair_Back_6_4/Hair_Back_6_5_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_6_1/Hair_Back_6_2/Hair_Back_6_3/Hair_Back_6_4_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_6_1/Hair_Back_6_2/Hair_Back_6_3_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_6_1/Hair_Back_6_2_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_6_1_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_7_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_7_1/Hair_Back_7_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_7_1/Hair_Back_7_2/Hair_Back_7_3
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_7_1/Hair_Back_7_2/Hair_Back_7_3/Hair_Back_7_4
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_7_1/Hair_Back_7_2/Hair_Back_7_3/Hair_Back_7_4/Hair_Back_7_5
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_7_1/Hair_Back_7_2/Hair_Back_7_3/Hair_Back_7_4/Hair_Back_7_5/Hair_Back_7_6
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_7_1/Hair_Back_7_2/Hair_Back_7_3/Hair_Back_7_4/Hair_Back_7_5/Hair_Back_7_6_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_7_1/Hair_Back_7_2/Hair_Back_7_3/Hair_Back_7_4/Hair_Back_7_5_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_7_1/Hair_Back_7_2/Hair_Back_7_3/Hair_Back_7_4_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_7_1/Hair_Back_7_2/Hair_Back_7_3_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_7_1/Hair_Back_7_2_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_7_1_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_8_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_8_1/Hair_Back_8_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_8_1/Hair_Back_8_2/Hair_Back_8_3
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_8_1/Hair_Back_8_2/Hair_Back_8_3/Hair_Back_8_4
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_8_1/Hair_Back_8_2/Hair_Back_8_3/Hair_Back_8_4/Hair_Back_8_5
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_8_1/Hair_Back_8_2/Hair_Back_8_3/Hair_Back_8_4/Hair_Back_8_5/Hair_Back_8_6
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_8_1/Hair_Back_8_2/Hair_Back_8_3/Hair_Back_8_4/Hair_Back_8_5/Hair_Back_8_6_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_8_1/Hair_Back_8_2/Hair_Back_8_3/Hair_Back_8_4/Hair_Back_8_5_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_8_1/Hair_Back_8_2/Hair_Back_8_3/Hair_Back_8_4_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_8_1/Hair_Back_8_2/Hair_Back_8_3_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_8_1/Hair_Back_8_2_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_8_1_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_9_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_9_1/Hair_Back_9_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_9_1/Hair_Back_9_2/Hair_Back_9_3
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_9_1/Hair_Back_9_2/Hair_Back_9_3/Hair_Back_9_4
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_9_1/Hair_Back_9_2/Hair_Back_9_3/Hair_Back_9_4/Hair_Back_9_5
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_9_1/Hair_Back_9_2/Hair_Back_9_3/Hair_Back_9_4/Hair_Back_9_5/Hair_Back_9_6
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_9_1/Hair_Back_9_2/Hair_Back_9_3/Hair_Back_9_4/Hair_Back_9_5/Hair_Back_9_6_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_9_1/Hair_Back_9_2/Hair_Back_9_3/Hair_Back_9_4/Hair_Back_9_5_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_9_1/Hair_Back_9_2/Hair_Back_9_3/Hair_Back_9_4_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_9_1/Hair_Back_9_2/Hair_Back_9_3_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_9_1/Hair_Back_9_2_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_9_1_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_Tail_L_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_Tail_L_1/Hair_Back_Tail_L_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_Tail_L_1/Hair_Back_Tail_L_2/Hair_Back_Tail_L_3
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_Tail_L_1/Hair_Back_Tail_L_2/Hair_Back_Tail_L_3_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_Tail_L_1/Hair_Back_Tail_L_2_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_Tail_L_1_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_Tail_R_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_Tail_R_1/Hair_Back_Tail_R_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_Tail_R_1/Hair_Back_Tail_R_2/Hair_Back_Tail_R_3
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_Tail_R_1/Hair_Back_Tail_R_2/Hair_Back_Tail_R_3_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_Tail_R_1/Hair_Back_Tail_R_2_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Back_Tail_R_1_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_L_1_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_L_1_1/Hair_Front_L_1_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_L_1_1/Hair_Front_L_1_2_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_L_1_1_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_L_2_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_L_2_1/Hair_Front_L_2_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_L_2_1/Hair_Front_L_2_2_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_L_2_1_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_L_3_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_L_3_1/Hair_Front_L_3_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_L_3_1/Hair_Front_L_3_2/Hair_Front_L_3_3
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_L_3_1/Hair_Front_L_3_2/Hair_Front_L_3_3/Hair_Front_L_3_4
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_L_3_1/Hair_Front_L_3_2/Hair_Front_L_3_3/Hair_Front_L_3_4_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_L_3_1/Hair_Front_L_3_2/Hair_Front_L_3_3_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_L_3_1/Hair_Front_L_3_2_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_L_3_1_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_M_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_M_1/Hair_Front_M_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_M_1/Hair_Front_M_2_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_M_1_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_R_1_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_R_1_1/Hair_Front_R_1_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_R_1_1/Hair_Front_R_1_2_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_R_1_1_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_R_2_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_R_2_1/Hair_Front_R_2_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_R_2_1/Hair_Front_R_2_2_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_R_2_1_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_R_3_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_R_3_1/Hair_Front_R_3_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_R_3_1/Hair_Front_R_3_2/Hair_Front_R_3_3
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_R_3_1/Hair_Front_R_3_2/Hair_Front_R_3_3/Hair_Front_R_3_4
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_R_3_1/Hair_Front_R_3_2/Hair_Front_R_3_3/Hair_Front_R_3_4_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_R_3_1/Hair_Front_R_3_2/Hair_Front_R_3_3_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_R_3_1/Hair_Front_R_3_2_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Hair_Front_R_3_1_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Ribbon_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Ribbon_1/Ribbon_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Ribbon_1/Ribbon_2_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Ribbon_1/Ribbon_3
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Ribbon_1/Ribbon_3_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Ribbon_1/Ribbon_4
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Ribbon_1/Ribbon_4/Ribbon_5
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Ribbon_1/Ribbon_4/Ribbon_5_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Ribbon_1/Ribbon_4_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Ribbon_1/Ribbon_6
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Ribbon_1/Ribbon_6/Ribbon_7
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Ribbon_1/Ribbon_6/Ribbon_7_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Ribbon_1/Ribbon_6_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/Neck/Head/Ribbon_1_Pivot
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/RightShoulder
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandIndex1/RightHandIndex2/RightHandIndex3
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandMiddle1/RightHandMiddle2/RightHandMiddle3
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky1
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky1/RightHandPinky2
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandPinky1/RightHandPinky2/RightHandPinky3
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1/RightHandRing2
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandRing1/RightHandRing2/RightHandRing3
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm/RightHand/RightHandThumb1/RightHandThumb2/RightHandThumb3
+    m_Weight: 1
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm_cloth_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm_cloth_1/armTie_R_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm_cloth_1/armTie_R_1/armTie_R_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm/RightForeArm_cloth_1/RightForeArm_cloth_2
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm_cloth_1
+    m_Weight: 0
+  - m_Path: Lumi_rig/Hips/Spine/Spine1/Spine2/RightShoulder/RightArm_cloth_1/RightArm_cloth_2
+    m_Weight: 0
